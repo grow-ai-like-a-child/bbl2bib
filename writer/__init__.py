@@ -1,0 +1,1 @@
+"""BIB file writer module."""

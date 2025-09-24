@@ -1,0 +1,11 @@
+# bbl2bib requirements
+# Python 3.7+ required
+
+# No external dependencies required for core functionality
+# The tool uses only Python standard library
+
+# Optional dependencies for development and testing
+# pytest>=7.0.0  # For running tests
+# black>=22.0.0  # For code formatting
+# flake8>=4.0.0  # For linting
+# mypy>=0.950    # For type checking

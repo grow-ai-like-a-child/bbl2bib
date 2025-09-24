@@ -1,0 +1,55 @@
+\begin{thebibliography}{10}
+
+\bibitem{knuth1984}
+D.~E. Knuth.
+\newblock \emph{The TeXbook}.
+\newblock Addison-Wesley, Reading, Massachusetts, 1984.
+
+\bibitem{lamport1994}
+L.~Lamport.
+\newblock \emph{LaTeX: A Document Preparation System}.
+\newblock Addison-Wesley, Reading, Massachusetts, 2nd edition, 1994.
+
+\bibitem{einstein1905}
+A.~Einstein.
+\newblock {Zur Elektrodynamik bewegter K{\"o}rper}.
+\newblock \emph{Annalen der Physik}, 322(10):891--921, 1905.
+\newblock doi: 10.1002/andp.19053221004.
+
+\bibitem{turing1936}
+A.~M. Turing.
+\newblock On computable numbers, with an application to the {Entscheidungsproblem}.
+\newblock \emph{Proceedings of the London Mathematical Society}, 42:230--265, 1936.
+
+\bibitem{shannon1948}
+C.~E. Shannon.
+\newblock A mathematical theory of communication.
+\newblock \emph{The Bell System Technical Journal}, 27(3):379--423, 1948.
+
+\bibitem{berners1989}
+T.~Berners-Lee.
+\newblock Information management: A proposal.
+\newblock Technical report, CERN, Geneva, Switzerland, March 1989.
+\newblock URL: https://www.w3.org/History/1989/proposal.html.
+
+\bibitem{goldberg1989}
+D.~Goldberg and C.~Robson.
+\newblock \emph{Smalltalk-80: The Language and Its Implementation}.
+\newblock Addison-Wesley, Reading, Massachusetts, 1989.
+
+\bibitem{kernighan1978}
+B.~W. Kernighan and D.~M. Ritchie.
+\newblock \emph{The C Programming Language}.
+\newblock Prentice-Hall, Englewood Cliffs, New Jersey, 1978.
+
+\bibitem{dijkstra1968}
+E.~W. Dijkstra.
+\newblock Go to statement considered harmful.
+\newblock \emph{Communications of the ACM}, 11(3):147--148, March 1968.
+
+\bibitem{brooks1995}
+F.~P. Brooks~Jr.
+\newblock \emph{The Mythical Man-Month: Essays on Software Engineering}.
+\newblock Addison-Wesley, Reading, Massachusetts, anniversary edition, 1995.
+
+\end{thebibliography}
