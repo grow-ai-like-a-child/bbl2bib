@@ -239,7 +239,3 @@ This project is licensed under the MIT License. See LICENSE file for details.
 - Check the examples directory for sample input/output files
 - Use `--verbose` flag for detailed parsing information
 - Report issues on GitHub with sample BBL content
-
-## Acknowledgments
-
-This tool was created to help researchers and students recover bibliography data from compiled LaTeX documents when original BIB files are lost or unavailable.
